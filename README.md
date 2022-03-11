@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Insomnes! </br></h1> 
+<p align="center">
 
-<!--
-**1nsomnes/1nsomnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://discord.com/invite/decJDCn">
+	    <img src="https://img.shields.io/discord/761776694645489665?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge" />
+	</a> 
+  
+  <a href="https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w">
+	    <img src="https://img.shields.io/youtube/channel/subscribers/UCy0tGTdCVdygVb9wVGLHW3w?label=My%20Youtube&style=for-the-badge" />
+	</a> 
+  
+  <a href="https://www.fiverr.com/insomnes">
+	    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+	</a> 
 
-Here are some ideas to get you started:
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a professional developer with 4+ years of experience in Unity and C#.
+
+### More Links
+- [My Website](https://insomnes.me/)
+- [Nexela Studio](https://nexelastudio.com/)
+- [Linktree](https://linktr.ee/Insomnes)
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nsomnes&langs_count=4&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nsomnes&langs_count=4&theme=tokyonight) 
+
+# Check out my projects! :arrow_down::arrow_down:
