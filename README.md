@@ -19,7 +19,7 @@
 I'm a professional developer with 4+ years of experience in Unity and C#.
 
 ### More Links
-- [My Website](https://insomnes.me/)
+- [My Website](https://cedricclaessens.com/)
 - [Nexela Studio](https://nexelastudio.com/)
 - [Linktree](https://linktr.ee/Insomnes)
 
