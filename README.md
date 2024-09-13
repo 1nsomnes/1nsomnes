@@ -16,15 +16,13 @@
 </p> 
 
 ### About Me
-I'm a professional developer with 4+ years of experience in Unity and C#.
+I'm a student at Arizona State University studying Computer Science and Mathematics. My interests are primarily in competitive programming, full stack, and computational programming. I know a wide variety of languages including but not limited to Python, Java, Go, C#, and Javascript. Additionally, I have over 3 years of professional development as a Software Engineer and Freelancer. 
 
 ### More Links
 - [My Website](https://cedricclaessens.com/)
-- [Nexela Studio](https://nexelastudio.com/)
-- [Linktree](https://linktr.ee/Insomnes)
+- [Linkedin](https://www.linkedin.com/in/cedric-claessens-412414250/)
+- [Leetcode](https://leetcode.com/u/1nsomnes/)
+- [More Links](https://cedricclaessens.com/links)
 
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nsomnes&langs_count=4&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nsomnes&langs_count=4&theme=tokyonight) 
 
 # Check out my projects! :arrow_down::arrow_down:
