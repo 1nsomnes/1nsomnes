@@ -7,6 +7,12 @@ Open-Source Projects (Maintaining and Contributing): [QuantBot](https://github.c
 Organizations: [DevilQuant](https://devilquant.com/github), [InsomnesTutorial](https://github.com/InsomnesTutorials) <br>
 Socials: [LinkedIn](https://www.linkedin.com/in/cedric-claessens-412414250/), [YouTube](https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w), [Blog](https://cedricclaessens.com)
 
+**Projects**
+FullStack: [YouTube Transcriber](https://github.com/1nsomnes/TranscriptionApp)
+Simulations: [Sierpinski's Triangle](https://github.com/1nsomnes/MathProject) [Flow Fields](https://github.com/1nsomnes/FlowFields) [Three Body Simulation](https://github.com/InsomnesTutorials/ThreeBodyProblemSimulation)
+Engineering: [Airfoil Generator](https://github.com/1nsomnes/AirFoilGenerator)
+
+
 
 <!--
 <h1 align="center">👋 Hi, I'm Insomnes! </br></h1> 
