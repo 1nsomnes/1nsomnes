@@ -3,11 +3,15 @@ Studying CS and Math. <br>
 Founder @ [DevilQuant](https://devilquant.com) <br>
 Prev  @ [GeoWhiz](https://www.geowhiz.com/)
 
-[Read more about me](https://www.cedricclaessens.com/about/)
+<b>[Check out my portfolio](https://cedricclaessens.com)</b>
+<br><br>
 
-Open-Source Projects (Maintaining and Contributing): [QuantBot](https://github.com/DevilQuantASU/quantbot) <br>
+
+### Links
+
+<!-- Open-Source Projects (Maintaining and Contributing): [QuantBot](https://github.com/DevilQuantASU/quantbot) <br> -->
 Organizations: [DevilQuant](https://devilquant.com/github), [InsomnesTutorial](https://github.com/InsomnesTutorials) <br>
-Socials: [LinkedIn](https://www.linkedin.com/in/cedric-claessens-412414250/), [YouTube](https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w), [Blog](https://cedricclaessens.com)
+Socials: [LinkedIn](https://www.linkedin.com/in/cedric-claessens-412414250/), [YouTube](https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w), [Blog](https://blog.cedricclaessens.com)
 
 ### Projects
 FullStack: [YouTube Transcriber](https://github.com/1nsomnes/TranscriptionApp) <br>
