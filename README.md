@@ -18,6 +18,7 @@ FullStack: [YouTube Transcriber](https://github.com/1nsomnes/TranscriptionApp) <
 Simulations: [Sierpinski's Triangle](https://github.com/1nsomnes/SierpinskisTriangle), [Flow Fields](https://github.com/1nsomnes/FlowFields), [Three Body Simulation](https://github.com/InsomnesTutorials/ThreeBodyProblemSimulation) <br>
 Backend: [User Service Template](https://github.com/1nsomnes/User-Service-Template) <br>
 Engineering: [Airfoil Generator](https://github.com/1nsomnes/AirFoilGenerator) <br>
+Mobile: [Minimal Addiction Beater](https://github.com/1nsomnes/minimal_addiction_beater/) <br>
 
 
 
