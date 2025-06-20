@@ -1,7 +1,8 @@
 ### About
 Studying CS and Math. <br>
+Incoming @ [GoDaddy](https://www.godaddy.com/) <br>
 Founder @ [DevilQuant](https://devilquant.com) <br>
-Prev  @ [GeoWhiz](https://www.geowhiz.com/)
+Prev @ [GeoWhiz](https://www.geowhiz.com/)
 
 <b>[Check out my portfolio](https://cedricclaessens.com)</b>
 <br><br>
@@ -19,6 +20,15 @@ Simulations: [Sierpinski's Triangle](https://github.com/1nsomnes/SierpinskisTria
 Backend: [User Service Template](https://github.com/1nsomnes/User-Service-Template) <br>
 Engineering: [Airfoil Generator](https://github.com/1nsomnes/AirFoilGenerator) <br>
 Mobile: [Minimal Addiction Beater](https://github.com/1nsomnes/minimal_addiction_beater/) <br>
+
+### Configs
+I like highly modular and configurable work flows, as such, after a couple installations (npm, py-env, brew, nvim etc...), almost my entire configuration can be copied through these repositories. 
+| System | Config |
+| -- | -- | 
+| MacOS (Silicon) Sequoia | [Mac OS Dot Files](https://github.com/1nsomnes/MacOSDotFiles) |
+| Arch Linux | Coming Soon... |
+
+
 
 
 
