@@ -23,10 +23,10 @@ Mobile: [Minimal Addiction Beater](https://github.com/1nsomnes/minimal_addiction
 
 ### Configs
 I like highly modular and configurable work flows, as such, after a couple installations (npm, py-env, brew, nvim etc...), almost my entire configuration can be copied through these repositories. 
-| System | Config |
-| -- | -- | 
-| MacOS (Silicon) Sequoia | [Mac OS Dot Files](https://github.com/1nsomnes/MacOSDotFiles) |
-| Arch Linux | Coming Soon... |
+| System | Config | Guide |
+| -- | -- | -- |
+| MacOS (Silicon) Sequoia | [Mac OS Dot Files](https://github.com/1nsomnes/MacOSDotFiles) | Coming Soon... |
+| Arch Linux | [Arch Dot Files](https://github.com/1nsomnes/ArchDotFiles) | Coming Soon... |
 
 
 
