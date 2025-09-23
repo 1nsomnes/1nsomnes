@@ -1,6 +1,6 @@
 ### About
 Studying CS and Math. <br>
-SRE Intern @ [GoDaddy](https://www.godaddy.com/)  |  Founder @ [DevilQuant](https://devilquant.com)  |  Prev @ [GeoWhiz](https://www.geowhiz.com/) <br>
+SWE @ [GoDaddy](https://www.godaddy.com/)  |  Founder @ [DevilQuant](https://devilquant.com)  |  Prev @ [GeoWhiz](https://www.geowhiz.com/) <br>
 Socials: [LinkedIn](https://www.linkedin.com/in/cedric-claessens-412414250/), [YouTube](https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w), [Blog](https://blog.cedricclaessens.com)
 
 <b>[Check out my portfolio](https://cedricclaessens.com/#projects)</b>
