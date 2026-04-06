@@ -1,7 +1,7 @@
 ### About
 Studying CS and Math. <br>
-SWE @ [GoDaddy](https://www.godaddy.com/)  |  Founder @ [DevilQuant](https://devilquant.com)  |  Prev @ [GeoWhiz](https://www.geowhiz.com/) <br>
-Socials: [LinkedIn](https://www.linkedin.com/in/cedric-claessens-412414250/), [YouTube](https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w), [Blog](https://blog.cedricclaessens.com)
+Incoming @ [AWS](https://aws.amazon.com/) |  Founder @ [DevilQuant](https://devilquant.com) |  prev @ [GoDaddy](https://www.godaddy.com/), [GeoWhiz](https://www.geowhiz.com/) <br>
+Socials: [LinkedIn](https://www.linkedin.com/in/cedric-claessens-412414250/), [YouTube](https://www.youtube.com/channel/UCy0tGTdCVdygVb9wVGLHW3w), [Blog](https://cedricclaessens.com/#/blog)
 
 <b>[Check out my portfolio](https://cedricclaessens.com/#projects)</b>
 <br>
